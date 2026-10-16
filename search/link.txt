@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/dsa/binary-search/
+https://www.cs.usfca.edu/~galles/visualization/Search.html

@@ -1,0 +1,7 @@
+// =================================== pointers in short =========================================
+// you want to declare a pointer
+
+// datetype *nameofpointer =&x    this mean a pointer have the address of x
+// cout<<nameofpointer            that mean the value of pointer which is the address of x
+// cout<<*nameofpointer           that mean the value of address that it point to
+// cout<<&nameofpointer           that mean you want to print the address of pointer itself
